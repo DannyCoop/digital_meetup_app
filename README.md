@@ -3,18 +3,18 @@
 DigitalMeetup is an app that serves as a middle man for people intersted in planing digital meetups in this new quarantine life style of ours. Such as planing a movie night, a game night, or even just a group call. Users can see all of the the events posted and the people attending as well as the number of spots left. Users have an account where they can see a list of movies they are hosting, attending, or movies they've hosted or attend, edit or delete.
 
 # Getting started
-* First you'll want to fork and clone the the repo.
-* Second you'll need to run 'bundle install' & 'npm install bulma'
-* Third you'll need to run rails db:migrate to create the database 
-* Fourth rails db:seed to populate your new database with some seed data.
+* Fork and clone the the repo.
+* Run 'bundle install' & 'npm install bulma'
+* Run rails db:migrate to create the database 
+* Run rails db:seed to populate your new database with pregenerated seed data.
 Once you have taken all of the following steps you will have a ready to go copy of digital meetup on your local machine.
 
 # Prerequisites
 * Ruby version 2.6.1
-* rails
-* bundler
+* Rails
+* Bundler
 
-# installing
+# Installing
 ```
 # To install Ruby run this line below
 rvm install 2.6.1
